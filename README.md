@@ -1,4 +1,4 @@
 # Data_Prep
 
-Following the tutorial Data Preparation for Machine Learning from machinelearningmastery.com.
+Following the Data Preparation for Machine Learning tutorial from machinelearningmastery.com.
 
